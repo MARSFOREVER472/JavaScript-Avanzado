@@ -12,4 +12,4 @@
 
 - **_Escribe código HTML, CSS, JS, PHP, etc._**
 
-- Este completo editor nos permite trabajar de una manera eficaz y llamativa._**
+- **_Este completo editor nos permite trabajar de una manera eficaz y llamativa._**
