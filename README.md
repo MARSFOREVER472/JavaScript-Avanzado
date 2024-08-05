@@ -1,3 +1,3 @@
 # JavaScript-Avanzado
 
-Aprendiendo JavaScript Desde Cero!
+## Aprendiendo JavaScript Desde Cero!
