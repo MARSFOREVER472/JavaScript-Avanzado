@@ -10,4 +10,6 @@
 
 - **_En este tutorial vamos a ver como escribir código en Visual Studio Code, qué es y para qué sirve en el mundo del desarrollo web y programación._**
 
-- **_Escribe código HTML, CSS, JS, PHP, etc. Este completo editor nos permite trabajar de una manera eficaz y llamativa._**
+- **_Escribe código HTML, CSS, JS, PHP, etc.
+
+- Este completo editor nos permite trabajar de una manera eficaz y llamativa._**
