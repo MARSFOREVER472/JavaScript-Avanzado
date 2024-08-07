@@ -25,4 +25,4 @@
 
 - **_Abrimos la etiqueta de script y dentro de la primera etiqueta agregamos un ```src="nombre-inventado.js"```_**
 
-- _Actualizamos nuestro sitio web y wuala!_
+- **_Actualizamos nuestro sitio web y wuala!_**
