@@ -17,3 +17,4 @@
 - **_Vamos a ver 3 métodos para agregar Javascript a nuestros proyectos web._**
 
 - **_Es muy similar a cómo agregamos hojas de estilo CSS..._**
+Es muy similar a cómo agregamos hojas de estilo CSS...
