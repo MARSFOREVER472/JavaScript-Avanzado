@@ -21,4 +21,4 @@
 - **_Es muy similar a cómo agregamos hojas de estilo CSS..._**
 La primera forma y la recomendada es agregar una hoja aparte con la extensión .js
 podemos crear un nuevo archivo
-colocarle nombre-inventado.js (aquí la extensión es lo importante, siempre será .js)
+colocarle nombre-inventado.js (aquí la extensión es lo importante, siempre será .js).
