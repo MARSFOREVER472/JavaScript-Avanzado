@@ -1,4 +1,4 @@
-# **_JavaScript-Avanzado_**
+# **_JavaScript~Avanzado_**
 
 ## **_Aprendiendo JavaScript Desde 0!_**
 
