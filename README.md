@@ -21,4 +21,4 @@
 - **_La primera forma y la recomendada es agregar una hoja aparte con la extensión .js podemos crear un nuevo archivo colocarle nombre-inventado.js (aquí la extensión es lo importante, siempre será .js) colocaremos algo fácil como 
 ```alert("hola soy un mensaje");```._**
 
-- _Nos vamos a nuestro documento html y si queremos que javascript se ejecute cuando nuestro sitio esté cargado, lo insertamos al terminar nuestra etiqueta body._
+- **_Nos vamos a nuestro documento html y si queremos que javascript se ejecute cuando nuestro sitio esté cargado, lo insertamos al terminar nuestra etiqueta body._**
