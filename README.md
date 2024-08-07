@@ -18,4 +18,4 @@
 
 - **_Es muy similar a cómo agregamos hojas de estilo CSS..._**
 
-- _Es muy similar a cómo agregamos hojas de estilo CSS..._
+- **_Es muy similar a cómo agregamos hojas de estilo CSS..._**
