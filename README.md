@@ -27,4 +27,4 @@
 
 - **_Actualizamos nuestro sitio web y wuala!_**
 
-- Puedes ver como bootstrap.js también es cargado en esta parte del documento.
+- _Puedes ver como bootstrap.js también es cargado en esta parte del documento._
