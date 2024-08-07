@@ -13,3 +13,4 @@
 - **_Escribe código HTML, CSS, JS, PHP, etc._**
 
 - **_Este completo editor nos permite trabajar de una manera eficaz y llamativa._**
+Vamos a ver 3 métodos para agregar Javascript a nuestros proyectos web.
