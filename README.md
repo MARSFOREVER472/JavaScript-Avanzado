@@ -1,6 +1,6 @@
 # **_JavaScript-Avanzado_**
 
-## **_Aprendiendo JavaScript Desde Cero!_**
+## **_Aprendiendo JavaScript Desde 0!_**
 
 ### **_Para empezar..._**
 
