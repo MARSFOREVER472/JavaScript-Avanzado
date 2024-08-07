@@ -23,4 +23,4 @@
 
 - **_Nos vamos a nuestro documento html y si queremos que javascript se ejecute cuando nuestro sitio esté cargado, lo insertamos al terminar nuestra etiqueta ```body```._**
 
-- Abrimos la etiqueta de script y dentro de la primera etiqueta agregamos un src="nombre-inventado.js"
+- _Abrimos la etiqueta de script y dentro de la primera etiqueta agregamos un src="nombre-inventado.js"_
